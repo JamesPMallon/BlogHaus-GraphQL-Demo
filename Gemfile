@@ -60,3 +60,8 @@ gem 'pry-doc'
 gem 'pry-rails'
 
 gem 'awesome_print'
+
+gem 'graphql'
+
+gem 'graphiql-rails', group: :development
+gem 'goldiloader'
